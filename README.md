@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @vikashhub6
-- 👀 I’m interested in .. becoming data scientist.
+- 👋 Hi, I’m rock
+- 👀 I’m interested in .. becoming data scclear
+ientist.
 - 🌱 I’m currently learning   coding...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  through my insta id vikashima9162.
